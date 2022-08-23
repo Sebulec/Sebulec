@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sebulec
+- 👋 Hi, Welcome to my github page!
 - 👀 I’m interested in iOS Development, but also machine learning and new things connected with AI.
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sebastian-kotarski-375253103/)
